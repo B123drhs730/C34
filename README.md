@@ -1,2 +1,3 @@
-# C34
-Guerra de barquitos
+# Invasion-Pirata-etapa6
+
+agregar sonidos y puntuación
